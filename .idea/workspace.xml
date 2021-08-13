@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f5eebc0-d0b0-41db-8b1f-ebd9de83d274" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vijpktGU40pZIeC7xKrJ4sbDwB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Simulation">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="spaceChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation" />
+      <module name="spaceChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Simulation" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f5eebc0-d0b0-41db-8b1f-ebd9de83d274" name="Default Changelist" comment="" />
+      <created>1627051988612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627051988612</updated>
+      <workItem from="1627051992180" duration="20423000" />
+      <workItem from="1627255651595" duration="1090000" />
+      <workItem from="1627676107857" duration="36000" />
+      <workItem from="1627676178575" duration="26608000" />
+      <workItem from="1628085873668" duration="12777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1627246973353">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1627246973353" />
+    <state width="1253" height="26" key="GridCell.Tab.0.bottom" timestamp="1628096991917">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="26" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1628096991917" />
+    <state width="1253" height="26" key="GridCell.Tab.0.center" timestamp="1628096991917">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="26" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1628096991917" />
+    <state width="1253" height="26" key="GridCell.Tab.0.left" timestamp="1628096991916">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="26" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1628096991916" />
+    <state width="1253" height="26" key="GridCell.Tab.0.right" timestamp="1628096991917">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="26" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1628096991917" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1628086002036">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1628086002036" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1627255735483">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1627255735483" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1627766979080">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1627766979080" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1627759556311">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1627759556311" />
+  </component>
+</project>
